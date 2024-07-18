@@ -51,6 +51,6 @@ bash CamPhish.sh
 <p><b>Version: 1.0:</b> Ngrok authtoken update</p>
 <p><b>Version: 1.0:</b> Fix ngrok direct link</p>
 
-#### For More Video subcribe <a href="http://youtube.com/@Airop01">TechChip YouTube Channel</a>
+#### For More Video subcribe <a href="http://youtube.com/@Airop01">Airop YouTube Channel</a>
 <p>PhishCam is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>PhishCam is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
