@@ -34,8 +34,8 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/air678/PhishCam.git
-cd CamPhish
-bash CamPhish.sh
+cd PhishCam
+bash PhishCam.sh
 ```
 
 ## Change Log:
